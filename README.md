@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nithinm23
+- 👋 Hi, I’m @Nithin M
 - 👀 I’m interested in automotive safety systems, particularly ABS (Anti-lock Braking System) sensors and their role in enhancing vehicle performance.
 -🌱 I’m currently learning about sensor integration and data processing in modern vehicles.
 -💞️ I’m looking to collaborate on projects involving advanced driver-assistance systems (ADAS) and sensor fusion technologies.
